@@ -1,2 +1,4 @@
 Restaurant_and_Food_Establishment_Inspections__October_2016_to_Present_.csv
 .ipynb_checkpoints
+__pycache__
+config.py
