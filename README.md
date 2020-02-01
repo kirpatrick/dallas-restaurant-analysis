@@ -2,13 +2,6 @@
 Please see the [Presentation](https://docs.google.com/presentation/d/19vpMZBbfNXPX9-6Qe1YxKYzE8sal83Mh1qw5A7lPuxI/edit#slide=id.p) and [Jupyter Notebook](https://github.com/kirpatrick/dallas-restaurant-analysis/blob/master/dallas_restaurant_analysis.ipynb) for detailed findings and analysis.
 ### SMU Data Science Bootcamp:  Project 1
 Do restaurants with low health inspection scores tend to receive lower customer ratings in Yelp and Google?
-
-### Team Members
-Austin Potts, Kirpatrick Dorsey, Sean Kendrick Del Alcazar, Shane Gatenby, Stephanie Smith
-
-## Hypothesis
-If a Dallas restaurant has a poor health inspection score  (<70), that restaurant will also have a low customer rating on Google or Yelp.
-
 | Inspection Score  | Interpretation    |
 | ------------------|:-----------------:|
 | >90               | Good              |
@@ -16,8 +9,14 @@ If a Dallas restaurant has a poor health inspection score  (<70), that restauran
 | 71-85             | Needs improvement |
 | <= 70             | poor              |
 
+### Team Members
+Austin Potts, Kirpatrick Dorsey, Sean Kendrick Del Alcazar, Shane Gatenby, Stephanie Smith
+
 ## Null-Hypothesis
 If a Dallas restaurant has a poor health inspection (<70) score in 2019, that restaurant will not have a low customer rating on Google or Yelp.
+
+## Alternate Hypothesis
+If a Dallas restaurant has a poor health inspection score  (<70), that restaurant will also have a low customer rating on Google or Yelp.
 
 ## Solution
 1. Acquire the following API Keys:
