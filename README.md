@@ -1,6 +1,7 @@
 # Dallas Restaurant Food Inspection Ratings
 Please see the [Presentation Slides](https://docs.google.com/presentation/d/19vpMZBbfNXPX9-6Qe1YxKYzE8sal83Mh1qw5A7lPuxI/edit#slide=id.p) and [Nbviewer: Presentation Notebook (complete output)](https://nbviewer.jupyter.org/github/kirpatrick/dallas-restaurant-analysis/blob/75116ab08cd2413fe6ce912b04f95ad4c6729e87/dallas_restaurant_analysis.ipynb) for detailed findings and analysis.
 
+See the *Solution* section below for execution instructions.
 
 ### SMU Data Science Bootcamp:  Project 1
 Do restaurants with low health inspection scores tend to receive lower customer ratings in Yelp and Google?
@@ -20,7 +21,7 @@ Austin Potts, Kirpatrick Dorsey, Sean Kendrick Del Alcazar, Shane Gatenby, Steph
 ### Alternative-hypothesis: There is an expected positive relationship between the review a restaurant receives on Yelp or Google and the health inspection score that they receive.
 
 ## Solution
-1. Acquire the following API Keys:
+1. (Optional - Needed for API calls) - Acquire the following API Keys:
     - [Google](https://developers.google.com/places/web-service/intro)
     - [Yelp Fusion](https://www.yelp.com/developers/documentation/v3)
 2. Install 'Tech Stack' dependencies.
