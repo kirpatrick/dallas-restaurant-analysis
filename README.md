@@ -13,11 +13,9 @@ Do restaurants with low health inspection scores tend to receive lower customer 
 ### Team Members
 Austin Potts, Kirpatrick Dorsey, Sean Kendrick Del Alcazar, Shane Gatenby, Stephanie Smith
 
-## Null-Hypothesis
-If a Dallas restaurant has a poor health inspection (score in 2019, that restaurant will not have a low customer rating on Google or Yelp.
+## Null-hypothesis: There is no expected relationship between the review a restaurant receives on Yelp or Google and the health inspection score that they receive. 
 
-## Alternate Hypothesis
-If a Dallas restaurant has a poor health inspection score, that restaurant will also have a low customer rating on Google or Yelp.
+## Alternative-hypothesis: There is an expected positive relationship between the review a restaurant receives on Yelp or Google and the health inspection score that they receive.
 
 ## Solution
 1. Acquire the following API Keys:
