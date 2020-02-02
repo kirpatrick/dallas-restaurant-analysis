@@ -1,5 +1,5 @@
 # Dallas Restaurant Food Inspection Ratings
-Please see the [Presentation Slides](https://docs.google.com/presentation/d/19vpMZBbfNXPX9-6Qe1YxKYzE8sal83Mh1qw5A7lPuxI/edit#slide=id.p) and [Nbviewer: Presentation Notebook (complete output)](https://nbviewer.jupyter.org/github/kirpatrick/dallas-restaurant-analysis/blob/75116ab08cd2413fe6ce912b04f95ad4c6729e87/dallas_restaurant_analysis.ipynb) for detailed findings and analysis.
+Please see the [Presentation Slides](https://drive.google.com/file/d/1EqF-YlsO9rSOf2FNIn3mfPpZCefoVOm0/view?usp=sharing) and [Nbviewer: Presentation Notebook (complete output)](https://nbviewer.jupyter.org/github/kirpatrick/dallas-restaurant-analysis/blob/75116ab08cd2413fe6ce912b04f95ad4c6729e87/dallas_restaurant_analysis.ipynb) for detailed findings and analysis.
 
 See the *Solution* section below for execution instructions.
 
